@@ -1,0 +1,2 @@
+# CloudMusicPlugin
+突破网易云音乐播放列表1000首歌的限制
